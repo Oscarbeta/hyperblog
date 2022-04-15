@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
     color: #333;
@@ -42,3 +43,10 @@ body
 {
     padding: 1em;
 }
+=======
+body {
+  color: aqua;
+  text-align: center;
+  font-family: "Arial";
+}
+>>>>>>> d7c1fda94d43ac5c718c3099cb9da7993f11a22b
